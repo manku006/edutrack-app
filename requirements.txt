@@ -1,4 +1,0 @@
-Flask
-Flask-Mail
-werkzeug
-gunicorn
